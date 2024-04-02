@@ -1,8 +1,7 @@
 # Hello! 👋
 ## About Me
 Hey! im a Self taught develoeper!
-- [GitHub](https://github.com/alice)
-- [LinkedIn](https://www.linkedin.com/in/alice)
-- [Twitter](https://twitter.com/alice_dev)
+- [GitHub](https://github.com/femfus)
+- [Twitter](https://twitter.com/afemfus)
 
 **Hello! She/her**

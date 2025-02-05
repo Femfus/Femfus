@@ -5,7 +5,7 @@ I specialize in server management and troubleshooting, with a focus on fixing br
 ## Skills & Interests
 - **Server Management & Administration**
 - **Fixing & Optimizing Cheats**
-- **Ongoing Development Learning**
+- **Learning Programming (Python atm)**
 
 ## Languages Spoken
 - **English** (Fluent)

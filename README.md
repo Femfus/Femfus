@@ -14,4 +14,4 @@ I specialize in server management and troubleshooting, with a focus on fixing br
 
 Feel free to connect or reach out if you'd like to collaborate or discuss projects!
 
-![telegram](https://github.com/user-attachments/assets/b6c18e41-ef77-4036-997a-771bf244a1d3)
+[![telegram](https://github.com/user-attachments/assets/b6c18e41-ef77-4036-997a-771bf244a1d3)](https://t.me/ciladev)

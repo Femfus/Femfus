@@ -15,3 +15,5 @@ I specialize in server management and troubleshooting, with a focus on fixing br
 Feel free to connect or reach out if you'd like to collaborate or discuss projects!
 
 <a href="https://t.me/ciladev"><img src="https://github.com/user-attachments/assets/b6c18e41-ef77-4036-997a-771bf244a1d3" alt="telegram" width="40" height="40"></a>
+![discord]()
+<a href="ttps://discord.com/invite/tEVWn24N"><img src="https://github.com/user-attachments/assets/b6c18e41-ef77-4036-997a-771bf244a1d3" alt="discord" width="40" height="40"></a>

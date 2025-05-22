@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>Heyo! Im cila, i'm from The Faroe Islands (Thórshavn)</h3><br><h4>i'm running ubuntu 24.0.1 on my laptop and dual booting windows 10 23h2 and ubuntu 24.0.1 on my main pc</h4></br>
+<h3>Heyo! Im cila, i'm from The Faroe Islands (Tórshavn)</h3><br><h4>i'm running ubuntu 24.0.1 on my laptop and dual booting windows 10 23h2 and ubuntu 24.0.1 on my main pc</h4></br>
 
 
 # 💻 Skills:

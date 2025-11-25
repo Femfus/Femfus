@@ -1,4 +1,5 @@
-<img width="581" height="123" alt="Group 1" src="https://github.com/user-attachments/assets/0ae5db2e-479e-422d-8318-492f9972a43f" />
+<img width="771" height="214" alt="Group 1(1)" src="https://github.com/user-attachments/assets/dcffec7a-c58d-41f6-abce-35b5b66a7c42" />
+
 
 
 # 💻 Skills:

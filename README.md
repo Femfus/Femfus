@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="771" alt="Group 1(1)" src="https://github.com/user-attachments/assets/dcffec7a-c58d-41f6-abce-35b5b66a7c42" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Femfus</h1>
+<h1 align="center">Hi 👋, I'm Molly</h1>
 <h3 align="center">building local-first AI tools • self-hosted everything • terminal enjoyer</h3>
 
 <br/>
